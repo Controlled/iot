@@ -13,4 +13,4 @@ Ligue para (94) 98119-7364 ou envie um e-mail para marcos.silva@controlled.com.b
 Hello word com MQTT - MQTT, Python e Banco de Dados - Análise de Dados com Power BI. - HTML, JavaScript e MQTT
 
 
-
+URL do formulário de inscrição: https://forms.gle/BEdvjwy8oU6cSEzf7
