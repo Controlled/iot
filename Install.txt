@@ -1,0 +1,5 @@
+python -m pip install --update pip
+pip install paho-mqtt
+pip install requests
+
+
